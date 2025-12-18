@@ -44,17 +44,52 @@ aspect-rationl 16/9;
 
 
 .slide:first-child {
-  background: url("1.png") no-repeat
+  background: url("images/dog.png") no-repeat
     center top/cover;
 }
 
 .slide:nth-child(2) {
-  background: url("2.png") no-repeat
+  background: url("images/baby.png") no-repeat
     center top/cover;
 }
 
 .slide:nth-child(3) {
-  background: url("3.png") no-repeat
+  background: url("images/star snoopy.png") no-repeat
+    center top/cover;
+}
+
+.slide:nth-child(4) {
+  background: url("images/tiny cow.png") no-repeat
+    center top/cover;
+}
+
+.slide:nth-child(5) {
+  background: url("images/dog in field.png") no-repeat
+    center top/cover;
+}
+
+.slide:nth-child(6) {
+  background: url("images/moo.png") no-repeat
+    center top/cover;
+}
+
+.slide:nth-child(7) {
+  background: url("images/nature.png") no-repeat
+    center top/cover;
+}
+
+.slide:nth-child(8) {
+  background: url("images/nature.png") no-repeat
+    center top/cover;
+}
+
+.slide:nth-child(9) {
+  background: url("images/they're in love.png") no-repeat
+    center top/cover;
+}
+
+.slide:nth-child(10) {
+  background: url("images/OPOSSUM WIZARD_itty bitty fella.png") no-repeat
     center top/cover;
 }
 
