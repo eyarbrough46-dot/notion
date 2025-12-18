@@ -44,52 +44,52 @@ aspect-rationl 16/9;
 
 
 .slide:first-child {
-  background: url("images/dog.png") no-repeat
+  background: url("images/doggo.jpeg") no-repeat
     center top/cover;
 }
 
 .slide:nth-child(2) {
-  background: url("images/baby.png") no-repeat
+  background: url("images/baby.jpeg") no-repeat
     center top/cover;
 }
 
 .slide:nth-child(3) {
-  background: url("images/star snoopy.png") no-repeat
+  background: url("images/star snoopy.jpg") no-repeat
     center top/cover;
 }
 
 .slide:nth-child(4) {
-  background: url("images/tiny cow.png") no-repeat
+  background: url("images/tiny cow.jpg") no-repeat
     center top/cover;
 }
 
 .slide:nth-child(5) {
-  background: url("images/dog in field.png") no-repeat
+  background: url("images/dog in field.jpg") no-repeat
     center top/cover;
 }
 
 .slide:nth-child(6) {
-  background: url("images/moo.png") no-repeat
+  background: url("images/moo.jpg") no-repeat
     center top/cover;
 }
 
 .slide:nth-child(7) {
-  background: url("images/nature.png") no-repeat
+  background: url("images/nature.jpg") no-repeat
     center top/cover;
 }
 
 .slide:nth-child(8) {
-  background: url("images/nature.png") no-repeat
+  background: url("images/nature.jpg") no-repeat
     center top/cover;
 }
 
 .slide:nth-child(9) {
-  background: url("images/they're in love.png") no-repeat
+  background: url("images/they're in love.jpg") no-repeat
     center top/cover;
 }
 
 .slide:nth-child(10) {
-  background: url("images/OPOSSUM WIZARD_itty bitty fella.png") no-repeat
+  background: url("images/OPOSSUM WIZARD_itty bitty fella.jpg") no-repeat
     center top/cover;
 }
 
