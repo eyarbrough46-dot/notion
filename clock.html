@@ -76,7 +76,7 @@
       document.getElementById("date").textContent=
         now.toLocaleDateString(undefined, options);
     }
-
+ window.addEventListener("load", () => {
     updateClock();
     setInterval(updateClock, 1000);
   </script>
